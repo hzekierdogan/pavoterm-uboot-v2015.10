@@ -2,7 +2,7 @@
 # mx6q/dl/s/spl pavo terminal u-boot v2015.10 
  
 # Download repository
-    https://github.com/hzekierdogan/pavoterm-uboot-v2015.10.git
+    git clone https://github.com/hzekierdogan/pavoterm-uboot-v2015.10.git
     cd pavoterm-uboot-v2015.10.git
  
 # Install cross compiler
